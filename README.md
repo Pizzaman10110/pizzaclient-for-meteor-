@@ -1,4 +1,4 @@
-# Meteor Addon Template
+# This is a test addon ( not made yet )
 
 A template to allow easy usage of the Meteor Addon API.
 
